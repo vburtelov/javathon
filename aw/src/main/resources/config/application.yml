@@ -1,0 +1,8 @@
+system:
+  element:
+    queue:
+      host: "localhost"
+      port: "9092"
+logging:
+  level:
+    root: info

@@ -1,0 +1,13 @@
+server:
+  port: 8081
+  address: "localhost"
+  servlet:
+    context-path: "/dm"
+system:
+  element:
+    dm:
+      host: "localhost"
+      port: "8082"
+    queue:
+      host: "localhost"
+      port: "9092"

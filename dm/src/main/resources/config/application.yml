@@ -1,0 +1,13 @@
+server:
+  port: 8082
+  address: "localhost"
+  servlet:
+    context-path: "/dm"
+datafiles:
+  access2: "datafiles/access2.yml"
+  access3: "datafiles/access3.yml"
+  accounts: "datafiles/accounts.yml"
+  balances: "datafiles/balances.yml"
+  clients: "datafiles/clients.yml"
+  contacts: "datafiles/contacts.yml"
+  operations: "datafiles/operations.yml"

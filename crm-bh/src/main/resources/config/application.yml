@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  address: "localhost"
+  servlet:
+    context-path: "/api"
+
+system:
+  element:
+    dm:
+      host: "localhost"
+      port: "8081"
